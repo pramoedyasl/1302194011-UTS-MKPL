@@ -7,7 +7,6 @@ import java.util.List;
 
 public class Employee {
 
-	private String firstName;
 	private String lastName;
 	private String idNumber;
 	private String address;
